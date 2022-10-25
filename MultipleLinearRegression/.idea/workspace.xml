@@ -2,32 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12fb20f-b7bd-4054-8b32-f11933ba6198" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../FirstpythonProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstpythonProject/.idea/FirstpythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstpythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstpythonProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstpythonProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../FirstpythonProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MultipleLinearRegression.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleLinearRegression/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleLinearRegression/.idea/SimpleLinearRegression.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleLinearRegression/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleLinearRegression/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleLinearRegression/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleLinearRegression/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleLinearRegression/SalaryPredictionModel" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleLinearRegression/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleLinearRegression/dataset/Salary_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SimpleLinearRegression/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultipleLinearRegression.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartUps-MLRModel.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALDS-Recursion/.idea/ALDS-Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALDS-Recursion/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALDS-Recursion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALDS-Recursion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALDS-Recursion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALDS-Recursion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALDS-Recursion/SumofDigits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ALDS-Recursion/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
