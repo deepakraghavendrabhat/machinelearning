@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12fb20f-b7bd-4054-8b32-f11933ba6198" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datasets/.~lock.50_Startups_WOState.csv#" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/50_Startups_WOState.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolynomialRegression/.idea/PolynomialRegression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolynomialRegression/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolynomialRegression/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolynomialRegression/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolynomialRegression/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolynomialRegression/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolynomialRegression/datasets/Position_Salaries.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolynomialRegression/src/SalariesPosition.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
